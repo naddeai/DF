@@ -24,10 +24,11 @@
         "ms-toolsai.vscode-jupyter-cell-tags",
         "dracula-theme.theme-dracula",
         "charliermarsh.ruff",
-        "VisualStudioExptTeam.vscodeintellicode"
+        "VisualStudioExptTeam.vscodeintellicode",
+        "GitHub.github-vscode-theme"
       ],
       "settings": {
-        "workbench.colorTheme": "Default Dark Modern",
+        "workbench.colorTheme": "GitHub Dark Default",
         "python.defaultInterpreterPath": "/usr/local/bin/python",
         "python.linting.enabled": true,
         "python.linting.pylintEnabled": false, // Disable other linters
